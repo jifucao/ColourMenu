@@ -20,9 +20,6 @@ it, simply add the following line to your Podfile:
 pod 'ColourMenu'
 ```
 
-## Author
-
-Jifu, caojifu@xunlei.com
 
 ## License
 

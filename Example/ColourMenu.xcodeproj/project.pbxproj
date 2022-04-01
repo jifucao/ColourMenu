@@ -295,10 +295,12 @@
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/Pods-ColourMenu_Example/Pods-ColourMenu_Example-frameworks.sh",
 				"${BUILT_PRODUCTS_DIR}/ColourMenu/ColourMenu.framework",
+				"${BUILT_PRODUCTS_DIR}/ViewHover/ViewHover.framework",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ColourMenu.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/ViewHover.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
