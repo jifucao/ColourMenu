@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ColourMenu_Example' do
+  pod 'ColourMenu', :path => '../'
+
+  target 'ColourMenu_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
