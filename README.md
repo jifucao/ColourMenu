@@ -5,6 +5,9 @@
 [![License](https://img.shields.io/cocoapods/l/ColourMenu.svg?style=flat)](https://cocoapods.org/pods/ColourMenu)
 [![Platform](https://img.shields.io/cocoapods/p/ColourMenu.svg?style=flat)](https://cocoapods.org/pods/ColourMenu)
 
+Custom NSMenu `background color` and styles.
+
+![](Example/Screenshot/1.png)
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
